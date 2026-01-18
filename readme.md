@@ -2,9 +2,10 @@
 
 An **end-to-end Anime Recommendation System** built using **LLMs (Groq + HuggingFace)** and deployed on **Google Cloud** using **Docker, Kubernetes (Minikube)** with **Grafana Cloud** for observability.
 
-This project demonstrates a **full LLMOps lifecycle** — from model integration and containerization to cloud deployment and monitoring.
+This project demonstrates a **full LLMOps lifecycle** — from model integration and containerization to cloud deployment and monitoring. 
 
----
+---<img width="1915" height="1022" alt="Anime_recommender_Ss1" src="https://github.com/user-attachments/assets/5d8c7d26-0cc2-40b2-90d2-cfe7e5a61cd7" />
+
 
 ## 🚀 Project Overview
 
